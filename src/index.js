@@ -1,5 +1,7 @@
 /* eslint-disable no-console */
 import express from 'express';
+import './config/database';
+import middlewareConfig from './config/middlewares';
 
 const app = express();
 
