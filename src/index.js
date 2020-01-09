@@ -7,6 +7,7 @@ const app = express();
 
 const PORT = process.env.PORT || 3000;
 
+middlewareConfig(app);
 app.listen(PORT, err => {
   if (err) {
     throw err;
