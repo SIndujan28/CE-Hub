@@ -15,7 +15,7 @@ const shopSchema = new Schema({
     contentType: String,
   },
   owner: {
-    type: mongoose.Schema.ObjectId,
+    type: mongoose.SchemaTypes.ObjectId,
     ref: 'User',
   },
 }, { timestamps: true });
