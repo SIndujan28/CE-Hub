@@ -33,6 +33,8 @@
     yarn install
     ```
   3.Enter all necessary keys in sample.env file and rename it as .env file
+  
+  4.Make sure the mongodb instance is running.
 
   4.Then run the following command to bundle all files 
     ```bash
