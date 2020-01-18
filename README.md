@@ -23,25 +23,25 @@
   1.Clone this repository
     ```bash
      git clone git@github.com:SIndujan28/CE-Hub.git                                                                      
-    ```
-  2.Run the following command to install all the neccessary modules
+    ```\
+  2.Run the following command to install all the neccessary modules.
     ```bash
      npm install
-    ```\
+    ```
     or
     ```bash
     yarn install
     ```\
-  3.Enter all necessary keys in sample.env file and rename it as .env file
+  3.Enter all necessary keys in sample.env file and rename it as .env file.
 
   4.Make sure the mongodb instance is running.
 
-  4.Then run the following command to bundle all files 
+  4.Then run the following command to bundle all files.\
     ```bash
       npm run dev:build
     ```
 
-  5.Finally run this command to start the server
+  5.Finally run this command to start the server.
    ```bash
     npm run dev
    ```
