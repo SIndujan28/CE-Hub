@@ -2,7 +2,7 @@
  A markerplace to sell and consume electronic goods.
 
 ## Description
-This os a backend-service API for CE-Hub,where users can sign up and become a seller or consumer.
+ Nodejs powered backend-service API for CE-Hub,a marketplace where users can sign up and become a seller or consumer.
  
 Sellers can create virtual shops and add respective products to the shops.
 
