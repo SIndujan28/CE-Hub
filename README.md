@@ -13,6 +13,7 @@ Stripe payment gateway is also included so the selected product's details in the
   1. NodeJs
   2. Mongodb
   3. express
+  4. stripe
 
 ## Getting started
 
